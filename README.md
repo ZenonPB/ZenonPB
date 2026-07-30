@@ -88,11 +88,6 @@ A **Valorix** é uma startup que centraliza informações de compradores de mate
 
 </div>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ZenonPB&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
-
-</div>
 
 ---
 
@@ -110,21 +105,14 @@ A **Valorix** é uma startup que centraliza informações de compradores de mate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zenon-parelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/zenon-parelli](https://www.linkedin.com/in/zenonpb/))
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZenonPB)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenonparellibergamo@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-
-*"Escreva código como se o próximo desenvolvedor soubesse onde você mora."*
-<br/>
-<sub>— Um aviso sábio que todo dev deveria levar a sério 😄</sub>
-
-</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
