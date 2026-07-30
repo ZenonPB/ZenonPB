@@ -62,7 +62,7 @@ Hoje curso **ADS no IFSP de Araraquara** e sigo construindo o Valorix como desen
 
 <div align="center">
 
-> *Um projeto nascido de um TCC*
+> *O projeto que nasceu de um TCC.*
 
 </div>
 
@@ -76,13 +76,7 @@ A plataforma centraliza informações de compradores de materiais recicláveis e
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ZenonPB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ZenonPB&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZenonPB&bg_color=0d1117&color=a5b4fc&line=818cf8&point=ffffff&area=true&area_color=818cf8&hide_border=true" />
 
 </div>
 
