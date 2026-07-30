@@ -25,17 +25,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá! Sou **Zenon**, desenvolvedor Full Stack com olhos em impacto real e código que faz sentido. Estou cursando **Análise e Desenvolvimento de Sistemas no IFSP de Araraquara** e ao mesmo tempo trabalhando como desenvolvedor na **Valorix** — uma startup que usa tecnologia para empoderar cooperativas de reciclagem e tornar o Brasil mais sustentável ♻️.
+Minha história com programação começou muito antes do primeiro `Hello World` — comecei tentando criar hack ROMs de Pokémon quando criança, sem entender direito o que estava fazendo, mas fascinado com a ideia de **mexer em algo que parecia imutável**. Anos depois, em 2020, meu melhor amigo (que até hoje é o melhor programador que conheço) me empurrou para o Python — mesmo torcendo o nariz pelo JavaScript que ele preferia. Aprendi o básico, travei, e parei.
 
-Gosto de entender o problema antes de sair codando, de soluções que equilibram performance com legibilidade, e de aprender algo novo todo dia — seja uma nova tech, um pattern diferente ou uma perspectiva que eu ainda não tinha.
+A virada veio em 2024, quando o novo ensino médio me obrigou a escolher um curso técnico no SENAI. Escolhi Desenvolvimento de Sistemas quase que no susto — e foi aí que algo mudou. A obrigação de codar todo dia virou gosto, o gosto virou paixão, e a paixão virou o **Valorix**: meu TCC, que começou como um projeto final e hoje é uma startup real, com dois sócios decididos a levar a solução para todo o Brasil.
+
+Hoje curso **ADS no IFSP de Araraquara** e sigo construindo o Valorix como desenvolvedor. O que me move não é só o código — é a combinação de desafios técnicos que pedem conhecimentos fora da caixa (logística, processos físicos, sistemas que realmente precisam existir) com o lado humano: comunicação, gestão de pessoas e liderança sempre foram meu forte, e quero um dia usar tudo isso junto.
 
 ```typescript
 const zenon = {
-  role:       "Full Stack Developer",
-  education:  "ADS @ IFSP Araraquara",
-  currently:  "Desenvolvendo a Valorix 🌱",
-  focus:      ["React", "Node.js", "TypeScript", "Docker"],
-  mindset:    "Código bom é aquele que o próximo dev agradece 🤝",
+  role:        "Full Stack Developer",
+  education:   "ADS @ IFSP Araraquara",
+  origin:      "Hack ROMs de Pokémon → dev de verdade 🎮",
+  currently:   "Desenvolvendo a Valorix 🌱",
+  focus:       ["React", "Node.js", "TypeScript", "Docker"],
+  superpower:  "Código técnico + visão humana 🤝",
 };
 ```
 
@@ -69,13 +72,13 @@ const zenon = {
 
 <div align="center">
 
-> *Unindo cooperativas de reciclagem a compradores bem-avaliados — porque sustentabilidade também é tecnologia.*
+> *Nasceu como TCC. Virou startup. Agora quer mudar como o Brasil recicla.*
 
 </div>
 
-A **Valorix** é uma startup que centraliza informações de compradores de materiais recicláveis em uma única plataforma, ajudando cooperativas a fechar **melhores negócios** com parceiros confiáveis. Além disso, disponibiliza dashboards e dados estratégicos para apoiar a gestão das cooperativas com mais inteligência e eficiência.
+A **Valorix** (anteriormente Recoopera) surgiu como projeto de conclusão de curso no SENAI e ganhou vida própria: dois sócios decidiram não deixar a ideia morrer e hoje trabalhamos para levá-la a nível nacional.
 
-É onde aplico, na prática, tudo que aprendo — de arquitetura de sistemas a experiência de usuário.
+A plataforma centraliza informações de compradores de materiais recicláveis em um único lugar, ajudando cooperativas de reciclagem a fechar **melhores negócios** com parceiros bem-avaliados. Além disso, disponibiliza dashboards e dados estratégicos para que as cooperativas tomem decisões com mais inteligência — porque sustentabilidade também precisa ser rentável.
 
 ---
 
@@ -83,11 +86,15 @@ A **Valorix** é uma startup que centraliza informações de compradores de mate
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZenonPB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZenonPB&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ZenonPB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" />
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ZenonPB&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
+
+</div>
 
 ---
 
@@ -105,14 +112,13 @@ A **Valorix** é uma startup que centraliza informações de compradores de mate
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/zenon-parelli](https://www.linkedin.com/in/zenonpb/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zenonpb/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZenonPB)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zenonparellibergamo@gmail.com)
 
 </div>
 
 ---
-
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer"/>
