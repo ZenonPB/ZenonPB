@@ -62,7 +62,7 @@ Hoje curso **ADS no IFSP de Araraquara** e sigo construindo o Valorix como desen
 
 <div align="center">
 
-> *Nasceu como TCC. Virou startup. Agora quer mudar como o Brasil recicla.*
+> *Um projeto nascido de um TCC*
 
 </div>
 
