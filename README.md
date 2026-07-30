@@ -25,22 +25,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Minha história com programação começou muito antes do primeiro `Hello World` — comecei tentando criar hack ROMs de Pokémon quando criança, sem entender direito o que estava fazendo, mas fascinado com a ideia de **mexer em algo que parecia imutável**. Anos depois, em 2020, meu melhor amigo (que até hoje é o melhor programador que conheço) me empurrou para o Python — mesmo torcendo o nariz pelo JavaScript que ele preferia. Aprendi o básico, travei, e parei.
+Minha história com programação começou muito antes do primeiro `Hello World`. Comecei tentando criar hack ROMs de Pokémon quando criança, sem entender direito o que estava fazendo, mas fascinado com a ideia de **mexer em algo que parecia imutável**. Anos depois, em 2020, meu melhor amigo (que até hoje é o melhor programador que conheço) me empurrou para o Python, mesmo torcendo o nariz pelo JavaScript que ele preferia. Aprendi o básico, travei, e parei.
 
-A virada veio em 2024, quando o novo ensino médio me obrigou a escolher um curso técnico no SENAI. Escolhi Desenvolvimento de Sistemas quase que no susto — e foi aí que algo mudou. A obrigação de codar todo dia virou gosto, o gosto virou paixão, e a paixão virou o **Valorix**: meu TCC, que começou como um projeto final e hoje é uma startup real, com dois sócios decididos a levar a solução para todo o Brasil.
+A virada veio em 2024, quando o novo ensino médio me obrigou a escolher um curso técnico no SENAI. Escolhi Desenvolvimento de Sistemas quase que no susto, e foi aí que algo mudou. A obrigação de codar todo dia virou gosto, o gosto virou paixão, e a paixão virou o **Valorix**: meu TCC, que começou como um projeto final e hoje é uma startup real, com dois sócios decididos a levar a solução para todo o Brasil.
 
-Hoje curso **ADS no IFSP de Araraquara** e sigo construindo o Valorix como desenvolvedor. O que me move não é só o código — é a combinação de desafios técnicos que pedem conhecimentos fora da caixa (logística, processos físicos, sistemas que realmente precisam existir) com o lado humano: comunicação, gestão de pessoas e liderança sempre foram meu forte, e quero um dia usar tudo isso junto.
+Hoje curso **ADS no IFSP de Araraquara** e sigo construindo o Valorix como desenvolvedor. O que me move não é só o código: é a combinação de desafios técnicos que pedem conhecimentos fora da caixa (logística, processos físicos, sistemas que realmente precisam existir) com o lado humano. Comunicação, gestão de pessoas e liderança sempre foram meu forte, e quero um dia usar tudo isso junto.
 
-```typescript
-const zenon = {
-  role:        "Full Stack Developer",
-  education:   "ADS @ IFSP Araraquara",
-  origin:      "Hack ROMs de Pokémon → dev de verdade 🎮",
-  currently:   "Desenvolvendo a Valorix 🌱",
-  focus:       ["React", "Node.js", "TypeScript", "Docker"],
-  superpower:  "Código técnico + visão humana 🤝",
-};
-```
 
 ---
 
@@ -68,7 +58,7 @@ const zenon = {
 
 ---
 
-## ♻️ Valorix — Onde código encontra propósito
+## ♻️ Valorix
 
 <div align="center">
 
@@ -78,7 +68,7 @@ const zenon = {
 
 A **Valorix** (anteriormente Recoopera) surgiu como projeto de conclusão de curso no SENAI e ganhou vida própria: dois sócios decidiram não deixar a ideia morrer e hoje trabalhamos para levá-la a nível nacional.
 
-A plataforma centraliza informações de compradores de materiais recicláveis em um único lugar, ajudando cooperativas de reciclagem a fechar **melhores negócios** com parceiros bem-avaliados. Além disso, disponibiliza dashboards e dados estratégicos para que as cooperativas tomem decisões com mais inteligência — porque sustentabilidade também precisa ser rentável.
+A plataforma centraliza informações de compradores de materiais recicláveis em um único lugar, ajudando cooperativas de reciclagem a fechar **melhores negócios** com parceiros bem-avaliados. Além disso, disponibiliza dashboards e dados estratégicos para que as cooperativas tomem decisões com mais inteligência, porque sustentabilidade também precisa ser rentável.
 
 ---
 
